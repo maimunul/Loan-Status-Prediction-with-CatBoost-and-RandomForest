@@ -1,0 +1,18 @@
+Titanic-Predictions-with-Machine-Learning-Models/
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│   └── loan_predictions.csv
+├── notebooks/
+│   ├── Loan_Default_Prediction_with_CatBoost.ipynb
+│   └── Other_Model_Predictions.ipynb
+├── models/
+│   ├── CatBoost_model.pkl
+│   ├── LightGBM_model.pkl
+│   └── ...  # Add more models as needed
+├── results/
+│   ├── feature_importance.png
+│   ├── prediction_distribution.png
+│   └── shap_summary_plot.png
+├── requirements.txt
+└── README.md
