@@ -1,4 +1,4 @@
-# BreadcrumbsLoan-Status-Prediction-with-CatBoost-and-RandomForest 🚀🌌
+# Loan-Status-Prediction-with-CatBoost-and-RandomForest 🚀🌌
 
 ### Author ✍️: Maimunul Karim Jisan
 ### 🎓 Graduated from: East Delta University, Bangladesh
